@@ -1,0 +1,26 @@
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Monterrat, sans-serif;
+  background: #09131b;
+  color: #ffffff;
+  min-height: 100vh;
+}
+
+.header {
+  background: #122331;
+  position: relative;
+  max-width: 80vw;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem 2rem;
+  z-index: 1;
+}
